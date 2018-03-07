@@ -1,0 +1,53 @@
+/* 
+  Localizable.strings
+  Runner Stats
+
+  Created by Mr. Who on 1/4/14.
+  Copyright (c) 2014 hk. All rights reserved.
+*/
+// First interface
+"FirstNavigationBarTitle" = "Runner Stats";
+"StartRunningText" = " Start";
+"DistanceCovered" = "Distancia, %d ";
+"kilometers" = "kilómetros";
+"miles" = "millas";
+"DurationText" = ". Duracion, ";
+
+"minutes" = "%d minutos";
+"minSec" = "%d minutos, %d segundos";
+"hourMin" = "%d hora, %d minutos";
+"hourMinSec" = "%d hora, %d minutos, %d segundos";
+
+"Rank" = "rango";
+
+// alert view
+"DiscardTitle" = "Deshacer?";
+"Do you want to Discard" = "Quieres Deshacer?";
+"Login to game center" = "Para ver su posición, por favor identifícate para Game Center.";
+"LoginOption" = "login";
+"CancelOption" = "Cancelar";
+"DiscardOption" = "Discard";
+"SaveTitle" = "Guardar?";
+"Do you want to Save" = "Quieres Guardar?";
+"SaveOption" = "Guardar";
+// Second-1 interface
+"Second_1_NavigationBarTitle" = "Resumen";
+// Second-1 details interface
+"Max Speed" = "Velocidad Maxima";
+// Second-2 interface
+"Running Frequency" = "Frecuencia de Correr";
+"barChartTitle" = "Importe de Ejercicio de las ultimas 7 semanas";
+"JAN" = "JAN";
+"FEB" = "FEB";
+"MAR" = "MAR";
+"APR" = "APR";
+"MAY" = "MAY";
+"JUN" = "JUN";
+"JUL" = "JUL";
+"AUG" = "AUG";
+"SEP" = "SEP";
+"OCT" = "OCT";
+"NOV" = "NOV";
+"DEC" = "DEC";
+// Third interface
+"Settings" = "Ajustes";
